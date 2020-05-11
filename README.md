@@ -9,6 +9,7 @@ This project was created with:
 * Pillow
 * Flask
 * API
+* requests
 
 ### installation
 make sure you have pillow installed
@@ -18,6 +19,10 @@ pip install pillow
 in your virtual environment install flask to create you webpage
 ```
 pip install flask
+```
+install requests
+```
+pip install requests
 ```
 
 
